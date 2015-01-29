@@ -1,0 +1,26 @@
+{
+  "name": "FountainConverter",
+  "version": "1.0.0",
+  "description": "tool to convert fountain files to something else",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TypingFrog/FountainConverter.git"
+  },
+  "keywords": [
+    "fountain",
+    "jouvence"
+  ],
+  "dependencies": {
+    "jouvence": "git://github.com/TypingFrog/jouvence.git#dev/0.5"
+  },  
+  "author": "pierre@typingfrog.com",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/TypingFrog/FountainConverter/issues"
+  },
+  "homepage": "https://github.com/TypingFrog/FountainConverter"
+}
