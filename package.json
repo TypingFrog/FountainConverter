@@ -15,7 +15,9 @@
     "jouvence"
   ],
   "dependencies": {
-    "jouvence": "git://github.com/TypingFrog/jouvence.git#dev/0.5"
+    "jouvence": "git://github.com/TypingFrog/jouvence.git#dev/0.5",
+    "es6-promise": "^2.0.0",
+    "minimist": "^1.1.0"    
   },  
   "author": "pierre@typingfrog.com",
   "license": "BSD",
